@@ -25,6 +25,6 @@ def text_to_speech(text):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    text_to_speech(voice_rec())
+    print(text_to_speech(voice_rec()))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
